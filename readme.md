@@ -1,0 +1,3 @@
+Tidak dapat dipungkiri bahwa perkembangan teknologi saat ini sangat berkembang pesat. Telah banyak teknologi canggih di era saat ini, bahkan saat ini terdapat tren didunia industri yang menggabungkan teknologi otomatisasi dengan teknologi cyber yang biasa disebut Revolusi Industri 4.0, singkat nya teknologi 4.0 menanamkan teknologi cerdas yang dapat terhubung dengan berbagai bidang kehidupan manusia.
+
+Bahasa Pemrograman yang saya pakai untuk membuat website tersebut adalah PHP dengan menggunakan framework Laravel.
